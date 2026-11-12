@@ -5,7 +5,7 @@
 <sup>1</sup> Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)  
 <sup>2</sup> Center of Expertise Cyber Security, The Hague University of Applied Sciences  
 <sup>3</sup> Institute of Security and Global Affairs & Institute of Criminal Law and Criminology, Leiden University  
-<sup>4</sup> Cyber Offender Prevention Squad (COPS), Netherlands Police
+<sup>4</sup> Cyber Offender Prevention Squad (COPS), Netherlands Police  
 <sup>*</sup> Corresponding author  
 
 # Description
